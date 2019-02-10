@@ -12,7 +12,7 @@ Build a Node.js Express web app that uses the Microsoft Graph API to retrieve ca
 
 - 🚀Dependencies
   - 📦[dotenv](https://github.com/motdotla/dotenv)
-    - 📦[for loading values from a .env file.]
+    - 📦 For loading values from a .env file.
   - 📦[moment](https://github.com/moment/moment/)
   - 📦[connect-flash](https://github.com/jaredhanson/connect-flash)
   - 📦[express-session](https://github.com/expressjs/session)
