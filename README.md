@@ -25,3 +25,6 @@ Build a Node.js Express web app that uses the Microsoft Graph API to retrieve ca
     - ▶️ For token management.
   - 📦[microsoft-graph-client](https://github.com/microsoftgraph/msgraph-sdk-javascript)
     - ▶️ For making calls to Microsoft Graph.
+***
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
