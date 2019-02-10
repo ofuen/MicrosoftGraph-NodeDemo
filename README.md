@@ -12,16 +12,16 @@ Build a Node.js Express web app that uses the Microsoft Graph API to retrieve ca
 
 - 🚀Dependencies
   - 📦[dotenv](https://github.com/motdotla/dotenv)
-    - 📦 For loading values from a .env file.
+    - ▶️ For loading values from a .env file.
   - 📦[moment](https://github.com/moment/moment/)
-    - 📦 For formatting date/time values.
+    - ▶️ For formatting date/time values.
   - 📦[connect-flash](https://github.com/jaredhanson/connect-flash)
-    - 📦 To flash error messages in the app.
+    - ▶️ To flash error messages in the app.
   - 📦[express-session](https://github.com/expressjs/session)
-     - 📦 To store values in an in-memory server-side session.
+     - ▶️ To store values in an in-memory server-side session.
   - 📦[passport-azure-ad](https://github.com/AzureAD/passport-azure-ad)
-    - 📦 For authenticating and getting access tokens.
+    - ▶️ For authenticating and getting access tokens.
   - 📦[simple-oauth2](https://github.com/lelylan/simple-oauth2)
-    - 📦 For token management.
+    - ▶️ For token management.
   - 📦[microsoft-graph-client](https://github.com/microsoftgraph/msgraph-sdk-javascript)
-    - 📦 For making calls to Microsoft Graph.
+    - ▶️ For making calls to Microsoft Graph.
